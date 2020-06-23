@@ -20,11 +20,10 @@ These Valiant, Unassuming, Vigilant _(at least one of them)_, Ace-Flyers _(maybe
 
 **All of this is possible becasue of [`Kerbal Space Program`](https://www.kerbalspaceprogram.com) and the fantastic work by the creaters and maintainers of this fantastic game.**
 
-Version |  
----: | :---  
-1.9.1.2788 | KSP  
-1.9.1 | Making History  
-1.4.1 | Breaking Ground  
-
-
-Mods: None
+:Version |
+---: | :---
+1.9.1.2788 | KSP
+1.9.1 | Making History
+1.4.1 | Breaking Ground
+:Mods |
+None |
