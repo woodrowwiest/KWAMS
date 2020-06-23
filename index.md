@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+# Dawn of an Uncertain Age
 
-You can use the [editor on GitHub](https://github.com/woodrowwiest/KWAMS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Kdro** and **Mav Kerman** take to the abyss because some radical devastating change is brewing on Kerbin which could radically and un-reversibly redirect society and all of Kerbal kind beyond all recognition and return! We are tasked by Werner von K to find a way out. Are we up for the challenge? Yes! Or maybe we just love floating in micro gravity? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let's see how this ongoing saga unfolds.
 
-### Markdown
+## Does the Pointy-End go up or down?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These valiant young, unassuming, vigilant _at least one of them_, Ace flyers _maybe?_, Naieve _*DEFINITELY*_, Kerbals first need to learn the ropes in order to fulfill their destiny!
+
+_Mav:_ Kdro, do you believe in destiny?
+_Kdro:_ Only if it's a Kale smoothie!
+_Mav: *facepalm*_
+
+### Stardate 000 00:00
+
+
 
 ```markdown
 Syntax highlighted code block
