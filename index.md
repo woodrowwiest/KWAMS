@@ -6,7 +6,7 @@ Let's see how this ongoing saga unfolds.
 
 ## Does the Pointy-End go up or down?
 
-These valiant young, unassuming, vigilant _(at least one of them)_, Ace flyers _(maybe?)_, Naieve _(**DEFINITELY**)_, Kerbals first need to learn the ropes in order to fulfill their destiny!
+These Valiant, Unassuming, Vigilant _(at least one of them)_, Ace-Flyers _(maybe?)_, Naieve _(DEFINITELY Naieve)_, Young Kerbals first need to learn the ropes in order to fulfill their destiny!
 
 >_Mav:_ "Kdro, do you believe in destiny?"  
 >_Kdro:_ "Only if it's a Kale smoothie!"  
