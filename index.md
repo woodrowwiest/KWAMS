@@ -8,8 +8,8 @@ Let's see how this ongoing saga unfolds.
 
 These valiant young, unassuming, vigilant _at least one of them_, Ace flyers _maybe?_, Naieve _*DEFINITELY*_, Kerbals first need to learn the ropes in order to fulfill their destiny!
 
-_Mav:_ Kdro, do you believe in destiny?\
-_Kdro:_ Only if it's a Kale smoothie!\
+_Mav:_ "Kdro, do you believe in destiny?"\
+_Kdro:_ "Only if it's a Kale smoothie!"\
 _Mav: **facepalm**_
 
 ### Stardate 000 00:00
