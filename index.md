@@ -42,13 +42,13 @@ Mav and Kanvas jump out of the rocket to take a good look at their first craft.
 
 image-deliberations001.png)
 
- Mav: "It's beautiful, but how do we get back up there?"
- Kanvas: "Great research topic Mav! I knew you were a scientist at heart!" _whispering to himself_ "Hey Kali!"
- Unknown: "Beep. Yes Kdro?"
- Kanvas: "Make note in the science log; research ladders."
- Unknown: "Beep."
- Mav: "Who are you talking to?"
- Kanvas: _Unwilling to divulge any secrets:_ "Me? _kicks at a piece of launchpad depris_ No one."
+ >_Mav:_ "It's beautiful, but how do we get back up there?"
+ >_Kanvas:_ "Great research topic Mav! I knew you were a scientist at heart!" _whispering to himself_ "Hey Kali!"
+ >_Unknown:_ "Beep. Yes Kdro?"
+ >_Kanvas:_ "Make note in the science log; research ladders."
+ >_Unknown:_ "Beep."
+ >_Mav:_ "Who are you talking to?"
+ >_Kanvas: Unwilling to divulge any secrets:_ "Me? _kicks at a piece of launchpad depris_ No one."
 
 Science report: 
 10 science, Mav says "launchpad looks pretty." 
@@ -59,15 +59,15 @@ Launches:
 
 As Mav pushes the big red button the ducktaped together boosters begin to _R_aT_t_LE_ and the rockets _**ROAR**_. They're off! 
  
- Mav: "quick, on the count of three throw your weight to the soueast! THREE!"
+>_Mav:_ "quick, on the count of three throw your weight to the soueast! THREE!"
 Usually Kanvas Woodrow questions most of Mav's commands, but this one had a sense of urgency to it that seemed to require immediate action on his part. 
  
 Mav wanted to aim for the island just to the south east of the launchpad and this rocket is a bunch of low tech boosters stuck together. It's basically all of the KSC office trash cans packed full of how-to-play-KSP manuals ducktaped togetehr and lit one after another. This is definitely going to take some seat of the spacepants flying. 
  
 image-Mav_and_Kanvas_taking_their_time_to_get_to_the_airfield..png 
 
- Kanvas: "Hey, there it is! Look's like an airfield, but this is nowhere near space Mav."
- Mav: "Just a little further... Deploy chutes!"
+>_Kanvas:_ "Hey, there it is! Look's like an airfield, but this is nowhere near space Mav."
+>_Mav:_ "Just a little further... Deploy chutes!"
  
 image-Almost.png 
 
@@ -77,8 +77,8 @@ As soon as touchdown happens, Kanvas jumps out and starts to science. Mav jumps 
  
 image-what_are_you_waiting_for.png
 
- Kanvas: _Yelling_ "All of our flight data was in that capsule!" 
- Mav: _moaning in pain_ "I'm alright..."
+>_Kanvas:_ _Yelling_ "All of our flight data was in that capsule!" 
+>_Mav:_ _moaning in pain_ "I'm alright..."
 
 # The Saga continues...
 
