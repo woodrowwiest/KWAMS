@@ -38,9 +38,9 @@ In remembrance of the SAIRQOLA (_stupendiously and irrevicably ridiculous quanti
 
 #### First Flight! 
 
-Craft File  
+| | Craft File |
 Thumb | Name | Description | Warnings
---- | --- | --- 
+----- | :---: | :--------- | :------- 
 ![I](/image/craft/KWAMS_VAB_I.png) | [I](/Ships/VAB/I.craft) | Simplest way to get two nearly identical (Except for Ego) Kerbals to a nearby location quickly with the least resources. Strap a bunch of solid boosters under two caplsules and duct tape them together. | Stack separation via explosions.
 
 Mav and Kanvas jump out of the rocket to take a good look at their first craft.  
