@@ -48,7 +48,7 @@ Mav and Kanvas jump out of the rocket to take a good look at their first craft.
  >_Kanvas:_ "Make note in the science log; research ladders."  
  >_Unknown:_ "Beep."  
  >_Mav:_ "Who are you talking to?"  
- >_Kanvas: Unwilling to divulge any secrets:_ "Me? _kicks at a piece of launchpad depris_ No one."  
+ >_Kanvas: Unwilling to divulge any secrets:_ "Me? _kicks at a piece of launchpad debris_ No one."  
 
 Science report:  
 10 science, Mav says "launchpad looks pretty."  
