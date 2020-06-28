@@ -34,15 +34,14 @@ In remembrance of the SAIRQOLA (_stupendiously and irrevicably ridiculous quanti
  _May revisit this for reasons not to be spoiled._  
 4. Plasma blackouts during atmospheric entry.  
  
-### Nevermind the Physics. Get to the launchpad, we've got space to program!
+### Nevermind the Physics. Get to the launchpad, we've got space to program! 
 
-#### First Flight! 
+### First Flight! 
 
-Craft File
----
-Thumb | Name | Description | Warnings
------ | :---: | :--------- | :------- 
-![I](/image/craft/KWAMS_VAB_I.png) | [I](/Ships/VAB/I.craft) | Simplest way to get two nearly identical (Except for Ego) Kerbals to a nearby location quickly with the least resources. Strap a bunch of solid boosters under two caplsules and duct tape them together. | Stack separation via explosions.
+#### Craft File 
+| Thumb | Name  | Description | Warnings |
+| ----- | :---: | :---------- | :------- |
+| ![I](/image/craft/KWAMS_VAB_I.png) | [I](/Ships/VAB/I.craft) | Simplest way to get two nearly identical (Except for Ego) Kerbals to a nearby location quickly with the least resources. Strap a bunch of solid boosters under two caplsules and duct tape them together. | Stack separation via explosions. |
 
 Mav and Kanvas jump out of the rocket to take a good look at their first craft.  
 
@@ -61,7 +60,7 @@ Science report:
 Launches:  
 0  
 
-#### Second "First" Flight.
+### Second "First" Flight.
 
 As Mav pushes the big red button the ducktaped together boosters begin to _R_aT_t_LE_ and the rockets _**ROAR**_. They're off!  
  
@@ -92,9 +91,9 @@ As soon as touchdown happens, Kanvas jumps out and starts to science. Mav jumps 
 
 **All of this is possible becasue of [`Kerbal Space Program`](https://www.kerbalspaceprogram.com) and the fantastic work by the creaters and maintainers of this fantastic game.**
 
-Version |
----: | :---
-1.9.1.2788  |  KSP 
-1.9.1  |  Making History 
-1.4.1  |  Breaking Ground 
-Mods  |  [Chatterer](https://spacedock.info/mod/208/Chatterer)
+| Version |
+| ------: | :--- |
+| 1.9.1.2788  |  KSP |
+| 1.9.1  |  Making History |
+| 1.4.1  |  Breaking Ground |
+| Mods  |  [Chatterer](https://spacedock.info/mod/208/Chatterer) |
