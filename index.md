@@ -18,12 +18,12 @@ Hello Space!
 
 Let us start with a name. 
  
-“What’s in a name? That which we call a rose  
-by any other name would smell as sweet.”  
-_Juliet_  
- 
-"I prefer the smell of space."  
-_Mav Kerman_  
+>“What’s in a name? That which we call a rose  
+>by any other name would smell as sweet.”  
+>_Juliet_  
+> 
+>"I prefer the smell of space."  
+>_Mav Kerman_  
  
 In remembrance of the SAIRQOLA (_stupendiously and irrevicably ridiculous quantity of obnoxiously long acronyms_) used at NASA (_National Aeronautics and Space Administration_), we shall christen this budding space program **Kanvas Woodrow and Maverik Space Perpetually Accommodating Conscious Existence** or **KWAMSpace** for short.  
  
@@ -38,10 +38,10 @@ In remembrance of the SAIRQOLA (_stupendiously and irrevicably ridiculous quanti
 
 #### First Flight! 
 
-Craft File | 
+Craft File
  | Name | Description | Warnings
 --- | --- | --- 
-![I](/images/craft/KWAMS_VAB_I.png) | [I](/Ships/VAB/I.craft) | Simplest way to get two nearly identical (Except for Ego) Kerbals to a nearby location quickly with the least resources. Strap a bunch of solid boosters under two caplsules and duct tape them together. | Stack separation via explosions.
+![I](/image/craft/KWAMS_VAB_I.png) | [I](/Ships/VAB/I.craft) | Simplest way to get two nearly identical (Except for Ego) Kerbals to a nearby location quickly with the least resources. Strap a bunch of solid boosters under two caplsules and duct tape them together. | Stack separation via explosions.
 
 Mav and Kanvas jump out of the rocket to take a good look at their first craft.  
 
