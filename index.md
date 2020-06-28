@@ -19,13 +19,15 @@ Hello Space!
 Let us start with a name. 
  
 “What’s in a name? That which we call a rose  
-By any other name would smell as sweet.”  
+by any other name would smell as sweet.”  
 _Juliet_  
  
 "I prefer the smell of space."  
 _Mav Kerman_  
  
 In remembrance of the SAIRQOLA (_stupendiously and irrevicably ridiculous quantity of obnoxiously long acronyms_) used at NASA (_National Aeronautics and Space Administration_), we shall christen this budding space program **Kanvas Woodrow and Maverik Space Perpetually Accommodating Conscious Existence** or **KWAMSpace** for short.  
+
+![KWAMSpace Flag](/image/flags/KWAMS-001.png)
  
 **KSP played in science hard mode with caveats:**  
 1. Allowed Quicksave and reverts but sparingly, especially to aid in storybuilding.  
@@ -36,7 +38,10 @@ In remembrance of the SAIRQOLA (_stupendiously and irrevicably ridiculous quanti
  
 ### Nevermind the Physics. Get to the launchpad, we've got space to program!
 
-#### First Flight!
+#### First Flight! 
+
+Craft File | [](/crafts/)
+--- | ---
 
 Mav and Kanvas jump out of the rocket to take a good look at their first craft.  
 
