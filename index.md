@@ -62,9 +62,9 @@ As Mav pushes the big red button the ducktaped together boosters begin to _R_aT_
 >_Mav:_ "quick, on the count of three throw your weight to the soueast! THREE!"  
 *Usually Kanvas Woodrow questions most of Mav's commands, but this one had a sense of urgency to it that seemed to require immediate action on his part.*  
  
-Mav wanted to aim for the island just to the south east of the launchpad and this rocket is a bunch of low tech boosters stuck together. It's basically all of the KSC office trash cans packed full of how-to-play-KSP manuals ducktaped togetehr and lit one after another. This is definitely going to take some seat of the spacepants flying.  
+Mav wanted to aim for the island just to the south east of the launchpad and this rocket is a bunch of low tech boosters stuck together. It's basically all of the KSC office trash cans packed full of how-to-play-KSP manuals ducktaped together and ignited sequentially. This is definitely going to take some seat of the spacepants flying.  
  
-image-Mav_and_Kanvas_taking_their_time_to_get_to_the_airfield..png 
+![Mav and Kanvas taking their time to get to the airfield.](/image/2020jun21/Mav and Kanvas taking their time to get to the airfield..png)
 
 >_Kanvas:_ "Hey, there it is! Look's like an airfield, but this is nowhere near space Mav."  
 >_Mav:_ "Just a little further... Deploy chutes!"  
