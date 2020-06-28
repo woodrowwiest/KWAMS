@@ -43,7 +43,7 @@ Mav and Kanvas jump out of the rocket to take a good look at their first craft.
 image-deliberations001.png)
 
  >_Mav:_ "It's beautiful, but how do we get back up there?"  
- >_Kanvas:_ "Great research topic Mav! I knew you were a scientist at heart!" _whispering to himself_ "Hey Kali!"  
+ >_Kanvas:_ "Great research topic Mav! I knew you were a scientist at heart!" _whispering to himself_ "Hey Kali..."  
  >_Unknown:_ "Beep. Yes Kdro?"  
  >_Kanvas:_ "Make note in the science log; research ladders."  
  >_Unknown:_ "Beep."  
@@ -60,7 +60,7 @@ Launches:
 As Mav pushes the big red button the ducktaped together boosters begin to _R_aT_t_LE_ and the rockets _**ROAR**_. They're off!  
  
 >_Mav:_ "quick, on the count of three throw your weight to the soueast! THREE!"  
-Usually Kanvas Woodrow questions most of Mav's commands, but this one had a sense of urgency to it that seemed to require immediate action on his part.  
+*Usually Kanvas Woodrow questions most of Mav's commands, but this one had a sense of urgency to it that seemed to require immediate action on his part.*  
  
 Mav wanted to aim for the island just to the south east of the launchpad and this rocket is a bunch of low tech boosters stuck together. It's basically all of the KSC office trash cans packed full of how-to-play-KSP manuals ducktaped togetehr and lit one after another. This is definitely going to take some seat of the spacepants flying.  
  
