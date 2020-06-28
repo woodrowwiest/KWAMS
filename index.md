@@ -40,7 +40,7 @@ In remembrance of the SAIRQOLA (_stupendiously and irrevicably ridiculous quanti
 
 Mav and Kanvas jump out of the rocket to take a good look at their first craft.  
 
-image-deliberations001.png)
+![That's nice, but how do we get back in?](/image/2020jun21/deliberations001.png)
 
  >_Mav:_ "It's beautiful, but how do we get back up there?"  
  >_Kanvas:_ "Great research topic Mav! I knew you were a scientist at heart!" _whispering to himself_ "Hey Kali..."  
@@ -69,13 +69,13 @@ Mav wanted to aim for the island just to the south east of the launchpad and thi
 >_Kanvas:_ "Hey, there it is! Look's like an airfield, but this is nowhere near space Mav."  
 >_Mav:_ "Just a little further... Deploy chutes!"  
  
-image-Almost.png 
+![Almost there.](/image/2020jun21/Almost.png)
 
 The float down at what seems to be faster than what would be comfortable by normal Kerbal standards but this is Mav and Kanvas we are talking about here, the local tri-quarterly-Delta-V newsletter quoted them as being 'Super Kerbals'!  
  
 As soon as touchdown happens, Kanvas jumps out and starts to science. Mav jumps out to inspect the capsule by kicking it, accidentally knocking it over onto him and they both go rolling down the slope. The capsule builds up enough speed and explodes as it hits the water. Luckily Mav was still wearing his helmet.  
  
-image-what_are_you_waiting_for.png
+![Science lost, along with dignity.](/image/2020jun21/what are you waiting for.png)
 
 >_Kanvas:_ _Yelling_ "All of our flight data was in that capsule!"  
 >_Mav:_ _moaning in pain_ "I'm alright..."  
@@ -91,4 +91,4 @@ Version |
 1.9.1.2788  |  KSP 
 1.9.1  |  Making History 
 1.4.1  |  Breaking Ground 
-Mods  |  None
+Mods  |  [Chatterer](https://spacedock.info/mod/208/Chatterer)
