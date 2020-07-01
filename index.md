@@ -87,7 +87,7 @@ As soon as touchdown happens, Kanvas jumps out and starts to science. Mav jumps 
 
 # The Saga continues...
 
-**All of this is possible becasue of [`Kerbal Space Program`](https://www.kerbalspaceprogram.com) and the fantastic work by the creaters and maintainers of this fantastic game.**
+**All of this is possible becasue of [`Kerbal Space Program`](https://www.kerbalspaceprogram.com) and the fantastic work by the creaters and maintainers of this fantastic game.** 
 
 | Version |
 | ------: | :--- |
