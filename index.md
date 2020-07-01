@@ -91,14 +91,14 @@ As soon as touchdown happens, Kanvas jumps out and starts to science. Mav jumps 
 | ----- | :---: | :---------- | :------- |
 | ![III](/image/craft/KWAMS_VAB_III.png) | [II](/Ships/VAB/III.craft) | Fancy new engines and stack separation devices. | Sub-orbital craft. |
 
-Mav is rather bored with this suborbital stuff so he is brushing up on his orbital mechanics by watching Scott Manley KtUbe videos on his in flight display. He just fists the red button when the staging light flashes. Meanwhile, Kanvas Woodrow is frantically spacewalking gathering all the science he can muster before rentry pressures try to rip him off of the capsule. 
+Mav is rather bored with this suborbital stuff so he is brushing up on his orbital mechanics by watching Scott Manley KtUbe videos on his in flight display. He just fists the red button when the staging light flashes. Meanwhile, Kanvas Woodrow is frantically spacewalking gathering all the science he can muster before rentry pressures try to rip him off of the capsule.  
 
->_Kanvas:_ "That was fun! How do we get back to the space center again?"
->_Mav just shruggs and continues with his Scott Manley video_
+>_Kanvas:_ "That was fun! How do we get back to the space center again?"  
+>_Mav just shruggs and continues with his Scott Manley video_  
 
 ![First atmospheric exit and entry, almost splashed down.](/image/2020jun21/First armospheric exit:entry.png)
 
-92 Science!
+92 Science!  
 
 # The Saga continues...
 
