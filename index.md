@@ -110,7 +110,7 @@ All Mav can do is talk about orbits.
 
 The research team at KSC has been working hard to produce new rocket designs for dual Kerbal comfort to orbit. Their latest design is basically a beach ball made out of aluminum foil sitting atop a stack of trashcans filled with some strange cold liquid.  
 
->_Proud KSC rocket designer calls to the rocket over coms:_ "Don't sctatch this one up guys, it's on loan from the Koviets!" 
+>_Proud KSC rocket designer calls to the rocket over coms:_ "Don't sctatch this one up guys, it's on loan from the Koviets!"  
 >_Kanvas:_ "We can finally sit together!"  
 >_Mav grumpily:_ "There's no room for anything in this piece of junk. My knees are in my chest, how am I supposed to fly this?"  
 
