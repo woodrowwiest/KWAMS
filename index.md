@@ -100,6 +100,26 @@ Mav is rather bored with this suborbital stuff so he is brushing up on his orbit
 
 92 Science!  
 
+### Launch IV - Orbit?
+**Craft File**  
+| Thumb | Name  | Description | Warnings |
+| ----- | :---: | :---------- | :------- |
+| ![IV](/image/craft/KWAMS_VAB_IV.png) | [II](/Ships/VAB/IV.craft) | Hey look, two kerbals can finally sit together! | Wobbly, flies poorly, and sub-orbital. |
+
+All Mav can do is talk about orbits.  
+
+The research team at KSC has been working hard to produce new rocket designs for dual Kerbal comfort to orbit. Their latest design is basically a beach ball made out of aluminum foil sitting atop a stack of trashcans filled with some strange cold liquid.  
+
+_Proud KSC rocket designer calls to the rocket over coms:_ "Don't sctatch this one up guys, it's on loan from the Koviets!" 
+_Kanvas:_ "We can finally sit together!"  
+_Mav grumpily:_ "There's no room for anything in this piece of junk. My knees are in my chest, how am I supposed to fly this?"  
+
+![We can finally sit together!](/image/2020jun21/IV We can sit together.png)
+
+>_Mav:_ "Hey Kdro, I'm writing a blog and I need help with a tile, could you help me choose?" 
+>_Kanvas curious, looks over at Mav with intrest:_ "Wow, really? Ok!" 
+>_Mav:_ "Should it be, 'Bored with this sub-orbital B.S.' or 'Shouldn't scientists be smarter and produce actual orbital rockets?'" 
+
 # The Saga continues...
 
 **All of this is possible becasue of [`Kerbal Space Program`](https://www.kerbalspaceprogram.com) and the fantastic work by the creaters and maintainers of this fantastic game.** 
